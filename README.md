@@ -1,7 +1,8 @@
 # PROJECT Yummy Food (A food portal)
-# source code is in ..yummyfood_project/docs
+### source code is in ..yummyfood_project/docs
+### for execution visit on https://yugullsharma.github.io/yummyfood_project/
 
-# About
+## About
 This project is basically a fiction store portal that is develope using frontend technologies like html,
 CSS, and some Jquery.Motive of this project is only learning and explore skills using in this project.
 
@@ -11,7 +12,6 @@ CSS, and some Jquery.Motive of this project is only learning and explore skills 
 For frontend development, you will only need any text editor(I prefer Brackets) installed on your system.
 And plugins.
 
-## Languages & tools
 ## Languages & tools
 
 ### Autosave every edit
@@ -32,7 +32,7 @@ And plugins.
 
 - [cssnext](http://cssnext.putaindecode.io) is used to write futureproof CSS for CSS vendor prefix under the hood).
 
-_Autoprefixer_ is included and use [caniuse.com](http://caniuse.com/) database to avoid outdated prefixes. _You can forget CSS prefixes NOW._
+- _Autoprefixer_ is included and use [caniuse.com](http://caniuse.com/) database to avoid outdated prefixes. _You can forget CSS prefixes NOW._
 
 - [Beautify](used to format CSS.)
 
@@ -41,4 +41,8 @@ _Autoprefixer_ is included and use [caniuse.com](http://caniuse.com/) database t
 - [Paste and indent](Automatically apply correct indent to pasted code)
 
 - [Bracket git](for commit,push, pull and sync through bracket)
+
+### Adobe photoshop CS 5
+
+- Used to create UI Design and Mockup.
 
