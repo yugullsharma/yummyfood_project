@@ -3,8 +3,8 @@
 #### To see in Browser visit on https://goo.gl/CfPpia
 
 ## About
-This project is basically a fiction store portal that is develope using frontend technologies like html,
-CSS, and some Jquery.Motive of this project is only learning and explore skills using in this project.
+This project is basically a fiction store portal that is develop using frontend technologies like html,
+CSS, and some Jquery. Motive of this project is only learning and explore skills using in this project.
 
 
 ## Requirements
