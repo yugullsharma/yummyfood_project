@@ -1,6 +1,6 @@
 # PROJECT Yummy Food (A food portal)
 ### source code is in ..yummyfood_project/docs
-### for execution visit on https://yugullsharma.github.io/yummyfood_project/
+#### for execution visit on https://yugullsharma.github.io/yummyfood_project/
 
 ## About
 This project is basically a fiction store portal that is develope using frontend technologies like html,
